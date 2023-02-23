@@ -8,7 +8,7 @@ The primary objective of this project was to gain an understanding of the mathem
 
 2. Random forest on imbalanced datasheet
 
-3.Soft-margin Linear SVM and soft-margin kernelised SVM (sigmoid kernel)
+3. Soft-margin Linear SVM and soft-margin kernelised SVM (sigmoid kernel)
 
 
 All techniques were implemented without using any pre-built Python packages like sklearn or statsmodel. Relevant illustrations are included in the Jupyter notebook file. Performance of the trained models was not the top priority in this project; instead, our focus was on rigorous mathematical understanding and interpretation.
